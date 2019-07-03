@@ -4,6 +4,10 @@
 
 Go here: https://www.hammerspoon.org/
 
+## My keyboard shortcuts
+
+Read copy and edit my `config` file. Enjoy!
+
 ## Atom
 
 to install atom command in MAC:
