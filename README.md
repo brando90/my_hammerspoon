@@ -1,4 +1,10 @@
-# my_hammerspoon
+# My Hammerspoon
+
+## Installing Hammerspoon
+
+Go here: https://www.hammerspoon.org/
+
+## Atom
 
 to install atom command in MAC:
 
